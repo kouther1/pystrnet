@@ -1,0 +1,2 @@
+# pystrnet
+seperable attention mechanism
